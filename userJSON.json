@@ -1,24 +1,20 @@
-// /all
-{
-	"status": "200",
-	"users": [
-		{ "user_id": "1053827666", "user_name": "Andrés", "user_lastname": "Marín", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053822348", "user_email": "andres.marin@waytic.co" },
-		{ "user_id": "1053822345", "user_name": "Juan", "user_lastname": "Valencia", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053822348", "user_email": "juan.valencia@waytic.co" },
-		{ "user_id": "1053822346", "user_name": "Manuel", "user_lastname": "Valencia", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053822348", "user_email": "manuel.valencia@waytic.co" },
-		{ "user_id": "1053827667", "user_name": "Juliana", "user_lastname": "Marín", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053822348", "user_email": "juliana.marin@waytic.co" },
-		{ "user_id": "1053822347", "user_name": "Arnulfo", "user_lastname": "Valencia", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053822348", "user_email": "arnulfo.valencia@waytic.co" },
-		{ "user_id": "1053803871", "user_name": "Daniel", "user_lastname": "Marín", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053822348", "user_email": "daniel.marin@waytic.co" },
-		{ "user_id": "1053822348", "user_name": "Godofredo", "user_lastname": "Valencia", "user_points": "50", "user_role": "TL", "user_id_team_leader": "", "user_email": "godofredo.valencia@waytic.co" },
+[
+	{ "user_id": "1053827666", "user_name": "Andrés", "user_lastname": "Marín", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053822348", "user_email": "andres.marin@waytic.co" },
+	{ "user_id": "1053822345", "user_name": "Juan", "user_lastname": "Valencia", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053822348", "user_email": "juan.valencia@waytic.co" },
+	{ "user_id": "1053822346", "user_name": "Manuel", "user_lastname": "Valencia", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053822348", "user_email": "manuel.valencia@waytic.co" },
+	{ "user_id": "1053827667", "user_name": "Juliana", "user_lastname": "Marín", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053822348", "user_email": "juliana.marin@waytic.co" },
+	{ "user_id": "1053822347", "user_name": "Arnulfo", "user_lastname": "Valencia", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053822348", "user_email": "arnulfo.valencia@waytic.co" },
+	{ "user_id": "1053803871", "user_name": "Daniel", "user_lastname": "Marín", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053822348", "user_email": "daniel.marin@waytic.co" },
+	{ "user_id": "1053822348", "user_name": "Godofredo", "user_lastname": "Valencia", "user_points": "50", "user_role": "TL", "user_id_team_leader": "", "user_email": "godofredo.valencia@waytic.co" },
 
-		{ "user_id": "1053827676", "user_name": "Andrea", "user_lastname": "Marín", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053803881", "user_email": "andrea.marin@waytic.co" },
-		{ "user_id": "1053822355", "user_name": "Juana", "user_lastname": "Valencia", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053803881", "user_email": "juana.valencia@waytic.co" },
-		{ "user_id": "1053822356", "user_name": "Manuela", "user_lastname": "Valencia", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053803881", "user_email": "manuela.valencia@waytic.co" },
-		{ "user_id": "1053827677", "user_name": "Julian", "user_lastname": "Marín", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053803881", "user_email": "julian.marin@waytic.co" },
-		{ "user_id": "1053822357", "user_name": "Arnulfa", "user_lastname": "Valencia", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053803881", "user_email": "arnulfa.valencia@waytic.co" },
-		{ "user_id": "1053822358", "user_name": "Godofreda", "user_lastname": "Valencia", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053803881", "user_email": "godofreda.valencia@waytic.co" },
-		{ "user_id": "1053803881", "user_name": "Daniela", "user_lastname": "Marín", "user_points": "50", "user_role": "TL", "user_id_team_leader": "0", "user_email": "daniela.marin@waytic.co" }
+	{ "user_id": "1053827676", "user_name": "Andrea", "user_lastname": "Marín", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053803881", "user_email": "andrea.marin@waytic.co" },
+	{ "user_id": "1053822355", "user_name": "Juana", "user_lastname": "Valencia", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053803881", "user_email": "juana.valencia@waytic.co" },
+	{ "user_id": "1053822356", "user_name": "Manuela", "user_lastname": "Valencia", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053803881", "user_email": "manuela.valencia@waytic.co" },
+	{ "user_id": "1053827677", "user_name": "Julian", "user_lastname": "Marín", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053803881", "user_email": "julian.marin@waytic.co" },
+	{ "user_id": "1053822357", "user_name": "Arnulfa", "user_lastname": "Valencia", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053803881", "user_email": "arnulfa.valencia@waytic.co" },
+	{ "user_id": "1053822358", "user_name": "Godofreda", "user_lastname": "Valencia", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053803881", "user_email": "godofreda.valencia@waytic.co" },
+	{ "user_id": "1053803881", "user_name": "Daniela", "user_lastname": "Marín", "user_points": "50", "user_role": "TL", "user_id_team_leader": "0", "user_email": "daniela.marin@waytic.co" }
 
 
-		{ "user_id": "30287173", "user_name": "Maria", "user_lastname": "Marín", "user_points": "50", "user_role": "Admin", "user_id_team_leader": "0", "user_email": "maria.marin@waytic.co" }
-	],
-}
+	{ "user_id": "30287173", "user_name": "Maria", "user_lastname": "Marín", "user_points": "50", "user_role": "Admin", "user_id_team_leader": "0", "user_email": "maria.marin@waytic.co" }
+]
