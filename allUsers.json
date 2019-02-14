@@ -13,7 +13,7 @@
 	{ "user_id": "1053827677", "user_name": "Julian", "user_lastname": "Marín", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053803881", "user_email": "julian.marin@waytic.co" },
 	{ "user_id": "1053822357", "user_name": "Arnulfa", "user_lastname": "Valencia", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053803881", "user_email": "arnulfa.valencia@waytic.co" },
 	{ "user_id": "1053822358", "user_name": "Godofreda", "user_lastname": "Valencia", "user_points": "50", "user_role": "ASE", "user_id_team_leader": "1053803881", "user_email": "godofreda.valencia@waytic.co" },
-	{ "user_id": "1053803881", "user_name": "Daniela", "user_lastname": "Marín", "user_points": "50", "user_role": "TL", "user_id_team_leader": "0", "user_email": "daniela.marin@waytic.co" }
+	{ "user_id": "1053803881", "user_name": "Daniela", "user_lastname": "Marín", "user_points": "50", "user_role": "TL", "user_id_team_leader": "0", "user_email": "daniela.marin@waytic.co" },
 
 
 	{ "user_id": "30287173", "user_name": "Maria", "user_lastname": "Marín", "user_points": "50", "user_role": "Admin", "user_id_team_leader": "0", "user_email": "maria.marin@waytic.co" }
